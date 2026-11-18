@@ -1,0 +1,6 @@
+{
+  "name": "Cẩm nang hình ảnh di sản",
+  "description": "Cẩm nang tra cứu, kiểm tra quyền sử dụng hình ảnh hiện vật và di sản tư liệu tại Việt Nam dành cho sinh viên, nhà nghiên cứu, người làm nội dung và khách tham quan bảo tàng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
